@@ -16,7 +16,7 @@ Lastly, I wrote the recommendations for how to improve the Dognition service.
 
 # [Project 2: Rensselaer Polytechnic Institute (RPI) Summer Undergraduate Research Program (SURP) project Researcher](https://github.com/Sankalp1233/Rensselaer-Polytechnic-Institute-RPI-Summer-Undergraduate-Research-Program-SURP-Project)
 ## Overview
-     I created a multiwindow Shiny app which uses New York City open government database to display the conditions of the trees of New York City. The dataset used was the 2015 
+ I created a multiwindow Shiny app which uses New York City open government database to display the conditions of the trees of New York City. The dataset used was the 2015 
 Street Tree Census- Tree Data that contained information about trees in New York City from the five boroughs (Bronx, Brooklyn, Queens, Staten Island, and Manhattan) such as tree 
 species, health of the tree, Latin name of the tree, common name of the tree, latitude and longitude of the tree, and other important information.  From the dataset available, I 
 enriched the datasets by boroughs to structure the features that were important in the study: unique tree identifier (tree id), latitude, longitude, borough of the tree, the 
