@@ -12,6 +12,21 @@ I made a line chart showcasing the different memberships for the sign in count
 for the years 2013,2014, and 2015, I made a map of the dognition data based on 
 breed type and gender, a circle chart of the cities with breeds,a bar graph with
 breed type, breed group, and male/female, and a bar chart showcasing the games played.
-Then I wrote the reccomendations for how to improve service.
+Then I wrote the reccomendations for how to improve the service.
 
-#
+# [Project 2: Rensselaer Polytechnic Institute (RPI) Summer Undergraduate Research Program (SURP) project] 
+## Overview
+In this assignment I created a mulitiwindow Shiny application in R programming to map 
+the trees in New York City (NYC) and color the map by the health of the tree and 
+when someone clicks on a tree point, we get a panaormic street view
+of the tree as well as a wikipedia page about the tree. 
+In this project I also had a controller which filters the tree
+based on the species of the tree, the zip code of the tree, and 
+the health of the tree. Basically in this project I created
+an interactive Shiny application that was able to display 
+a lot of information at once as well as 
+having a lot of applications done at once. 
+I then wrote a report as well as a poster.
+
+# [Project 3: Computational Optimization Final Project]
+
