@@ -12,7 +12,7 @@ I made a line chart showcasing the different memberships for the sign in count
 for the years 2013,2014, and 2015, I made a map of the dognition data based on 
 breed type and gender, a circle chart of the cities with breeds,a bar graph with
 breed type, breed group, and male/female, and a bar chart showcasing the games played.
-Then I wrote the reccomendations for how to improve the service.
+Then I wrote the recommendations for how to improve the Dognition service.
 
 # [Project 2: Rensselaer Polytechnic Institute (RPI) Summer Undergraduate Research Program (SURP) project]
 ## Overview
