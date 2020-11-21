@@ -26,8 +26,7 @@ In this project I also had a controller which filters the tree
 based on the species of the tree, the zip code of the tree, and 
 the health of the tree. Basically in this project I created
 an interactive Shiny application that was able to display 
-a lot of information at once as well as 
-having a lot of applications done at once. 
+a lot of information all at once. 
 I then wrote a report as well as a poster.
 
 # [Project 3: Computational Optimization Final Project](https://github.com/Sankalp1233/Computational-Optimization-Final-Project)
