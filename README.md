@@ -14,8 +14,10 @@ breed type and gender, a circle chart of the cities with breeds,a bar graph with
 breed type, breed group, and male/female, and a bar chart showcasing the games played.
 Then I wrote the recommendations for how to improve the Dognition service.
 
-# [Project 2: Rensselaer Polytechnic Institute (RPI) Summer Undergraduate Research Program (SURP) project]
+# [Project 2: Rensselaer Polytechnic Institute (RPI) Summer Undergraduate Research Program (SURP) project Researcher]
 ## Overview
+I worked in the SURP program during Summer 2019 at RPI with Professor Hendler and 
+Professor Erickson in the Campfire.
 In this assignment I created a mulitiwindow Shiny application in R programming to map 
 the trees in New York City (NYC) and color the map by the health of the tree and 
 when someone clicks on a tree point, we get a panaormic street view
