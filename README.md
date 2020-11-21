@@ -27,7 +27,7 @@ based on the species of the tree, the zip code of the tree, and
 the health of the tree. Basically in this project I created
 an interactive Shiny application that was able to display 
 a lot of information all at once. 
-I then wrote a report as well as a poster.
+I then wrote a report as well as creating a poster.
 
 # [Project 3: Computational Optimization Final Project](https://github.com/Sankalp1233/Computational-Optimization-Final-Project)
 ## Overview
