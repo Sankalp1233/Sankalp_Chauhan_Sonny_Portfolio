@@ -29,4 +29,16 @@ having a lot of applications done at once.
 I then wrote a report as well as a poster.
 
 # [Project 3: Computational Optimization Final Project]
-
+## Overview
+In this project I developed two augmented lagrangian method (ALM) solvers,
+and wrote a report to explain the reuslts I got, how I derived the solver,
+and the observations I made from the results. For the first topic my goal was
+to find a hyperplane that seprates two classes of data points. I wanted to find
+a hyperplane that had a maximum margin between two classes. I also tested my 
+classification by getting an accuracy on the testing set and reporting the 
+accuracy I obtain. For the second topic my goal was to develop an 
+augmented lagrangian method solver that minimizes false negative error
+(a result that shows a negative data point when it should be a positive
+data point) while controlling for false positive error (a result that 
+shows a positive data point when it should be a negative data point). I
+used LATEX in order to write the report.
