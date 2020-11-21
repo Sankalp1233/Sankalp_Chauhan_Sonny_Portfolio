@@ -14,7 +14,7 @@ breed type and gender, a circle chart of the cities with breeds,a bar graph with
 breed type, breed group, and male/female, and a bar chart showcasing the games played.
 Then I wrote the reccomendations for how to improve the service.
 
-# [Project 2: Rensselaer Polytechnic Institute (RPI) Summer Undergraduate Research Program (SURP) project] 
+# [Project 2: Rensselaer Polytechnic Institute (RPI) Summer Undergraduate Research Program (SURP) project](https://github.com/Sankalp1233/Computational-Optimization-Final-Project)
 ## Overview
 In this assignment I created a mulitiwindow Shiny application in R programming to map 
 the trees in New York City (NYC) and color the map by the health of the tree and 
